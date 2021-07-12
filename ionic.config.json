@@ -1,0 +1,7 @@
+{
+  "name": "savings-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
